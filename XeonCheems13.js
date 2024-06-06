@@ -4,7 +4,7 @@
 //Instagram: manul official
 //Telegram: t.me/manulofficial
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +917907518599
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@manulofficial
 
 require('./lib/listmenu')
