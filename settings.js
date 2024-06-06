@@ -4,7 +4,7 @@
 //Instagram: manul official
 //Telegram: t.me/manulofficial
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +917907518599
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@manulofficial
 
 
@@ -17,19 +17,19 @@ global.socialm = "GitHub: manulofficial7" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Manul Official WhatsApp Bot V4' //ur bot name
-global.ownernumber = '94742274855' //ur owner number
-global.ownername = '©Mr Cyber Manul Official' //ur owner name
+global.botname = 'Jimbru Ser WhatsApp Bot V4' //ur bot name
+global.ownernumber = '917907518599' //ur owner number
+global.ownername = 'ജ᭄๏ꪶബൂട്ട൯' //ur owner name
 global.websitex = "https://github.com/manulofficial7"
-global.wagc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
-global.themeemoji = '🪀'
+global.wagc = "https://chat.whatsapp.com/GZxH52RLhYkITOeWAW4ztW"
+global.themeemoji = '🪄'
 global.wm = "Manu Bot Inc."
 global.botscript = 'https://github.com/Manul_Official_WhatsApp_Bot_V4' //script link
 global.packname = "Sticker By"
-global.author = "©Manul Official\n\n+94742274855"
-global.creator = "94742274855@s.whatsapp.net"
+global.author = "Jimbruser\n\n+917907518599"
+global.creator = "91790751859@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94742274855"] // Premium User
+global.premium = ["917907518599"] // Premium User
 global.hituet = 0
 
 //bot sett
